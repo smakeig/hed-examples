@@ -10,7 +10,7 @@ but these annotations can also be applied to other types of tabular data.
 **This guide organizes HED resources based on how you might use HED:**
 
 * [**As an experimenter**](as-an-experimenter-anchor)
-* [**As a data curator**](as-a-data-curator-anchor)
+* [**As a data annotator**](as-a-data-curator-anchor)
 * [**As a data analyst**](as-a-data-analyst-anchor)
 * [**As a tool developer**](as-a-tool-developer-anchor)
 * [**As a schema designer**](as-a-schema-designer-anchor)
